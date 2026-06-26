@@ -2,7 +2,9 @@
 
 ## Project Overview
 The State-Controlled Renewable Energy Generation Analysis project aims to analyze renewable energy generation data across different states to understand production patterns, trends, and performance. The project focuses on renewable energy sources such as solar, wind, hydro, and biomass, using Python for data analysis and visualization.
+
 The dataset is cleaned and preprocessed before performing Exploratory Data Analysis (EDA), statistical analysis, and data visualization. Interactive charts and dashboards are created to compare renewable energy generation across states, identify correlations between energy sources, detect outliers, and highlight key insights.
+
 The analysis helps evaluate the contribution of different renewable energy sources, supports data-driven decision-making, and provides recommendations for improving renewable energy planning and sustainable development.
 
 ## Objectives
